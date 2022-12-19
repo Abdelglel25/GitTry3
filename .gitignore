@@ -1,0 +1,3 @@
+/pdfFiles/**/*.java
+*.pdf
+!*.java
